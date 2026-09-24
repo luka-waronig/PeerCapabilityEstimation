@@ -8,7 +8,7 @@ A mathematical model and executable simulation study of local peer selection und
 
 The original four-peer illustration is retained first, with a fixed seed and explicit interpretation limits. Exercises below it use a separate, corrected research implementation.
 
-| Exercise | Experiment |
+| Part | Experiment |
 | --- | --- |
 | 1 | Original four-peer shock illustration |
 | 2 | Elapsed-time prediction, cost-projected covariance, physical observation model, and executable verification |
